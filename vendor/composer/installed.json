@@ -1,0 +1,45 @@
+[
+    {
+        "name": "thauex/simple-html-dom",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/ThauEx/SimpleHtmlDom.git",
+            "reference": "14195f78b873f45b1b3bf8756573191a9aa53edf"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/ThauEx/SimpleHtmlDom/zipball/14195f78b873f45b1b3bf8756573191a9aa53edf",
+            "reference": "14195f78b873f45b1b3bf8756573191a9aa53edf",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.3.2"
+        },
+        "time": "2013-05-08 17:59:43",
+        "type": "library",
+        "installation-source": "source",
+        "autoload": {
+            "psr-0": {
+                "ThauEx\\SimpleHtmlDom": ""
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "John Schlick",
+                "homepage": "http://john_schlick.users.sourceforge.net/",
+                "role": "Developer"
+            },
+            {
+                "name": "Thau",
+                "email": "thau.exodus@gmail.com"
+            }
+        ],
+        "description": "Modified version of http://sourceforge.net/projects/simplehtmldom/ with cache support"
+    }
+]
